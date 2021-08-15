@@ -1,2 +1,2 @@
-# php-ecommerce
-Simple one page php ecommerce site
+# PHP-Ecommerce
+Simple one page php ecommerce site.

@@ -1,0 +1,35 @@
+.text-left {
+    text-align: left;
+}
+
+.notify-dot {
+	background: yellow;
+	width: 20px;
+	height: 20px;
+	display: table;
+	border-radius: 20px;
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	color: black;
+	vertical-align: middle;
+	font-size: 12px;
+}
+
+
+/* Theme */
+
+.bg-theme {
+	background-color: #3f3d56;
+}
+
+.cursor-pointer {
+	cursor: pointer;
+}
+
+/* End of theme specific */
+
+
+.wrapper.cart-wrapper {
+	width: 700px;
+}
