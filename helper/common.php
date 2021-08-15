@@ -151,6 +151,7 @@ if ( !function_exists('countCartProducts') ) {
 
 if ( !function_exists('countCart') ) { 
     function countCart( ) {
+        $cart_count = 0;
         if( isset($_SESSION['user']) ) {
             $cart_count = countCartProducts($_SESSION['user']);
         } elseif (isset($_SESSION['cart'])) {
