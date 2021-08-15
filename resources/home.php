@@ -26,7 +26,7 @@
 
     <?php include "./resources/components/search.php"; ?>
 
-    <div class="row row-cols-1 row-cols-md-2 mb-3 list">
+    <div class="row row-cols-1 row-cols-lg-2 mb-3 list">
         <?php foreach($products as $product) { ?>
        
         <div class="col my-4">

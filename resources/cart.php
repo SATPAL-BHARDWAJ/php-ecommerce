@@ -1,5 +1,5 @@
 <?php $cart_count = countCart(); ?>
-<div class="cart-wrapper wrapper">
+<div class="cart-wrapper wrapper mx-auto" style="margin-bottom: 4%;">
 
 	  <div class="content-wrapper">
 	    <div class="container">
@@ -11,7 +11,7 @@
 	        	<div class="col-sm-12">
 	        		<!-- <h1 class="page-header">YOUR CART</h1> -->
 	        		<div class="box box-solid">
-	        			<div class="box-body">
+	        			<div class="box-body mt-5">
 		        		<table class="table table-bordered">
 		        			<thead>
 		        				<th></th>
