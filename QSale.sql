@@ -189,8 +189,7 @@ INSERT INTO `users` (`id`, `email`, `password`, `type`, `firstname`, `lastname`,
 (1, 'admin@admin.com', '$2y$10$0SHFfoWzz8WZpdu9Qw//E.tWamILbiNCX7bqhy3od0gvK5.kSJ8N2', 1, 'Code', 'Projects', '', '', 'thanos1.jpg', 1, '', '', '2018-05-01'),
 (9, 'harry@den.com', '$2y$10$Oongyx.Rv0Y/vbHGOxywl.qf18bXFiZOcEaI4ZpRRLzFNGKAhObSC', 0, 'Harry', 'Den', 'Silay City, Negros Occidental', '09092735719', 'male2.png', 1, 'k8FBpynQfqsv', 'wzPGkX5IODlTYHg', '2018-05-09'),
 (12, 'christine@gmail.com', '$2y$10$ozW4c8r313YiBsf7HD7m6egZwpvoE983IHfZsPRxrO1hWXfPRpxHO', 0, 'Christine', 'becker', 'demo', '7542214500', 'female3.jpg', 1, '', '', '2018-07-09'),
-(13, 'banny12@gmail.com', '$2y$10$3SZsNk/36p/Vh008t9MIiekBMHyQx0x7pkLFRy5F4YDR2D9Rlc9Sa', 0, 'banny', 'dir', NULL, NULL, NULL, 1, NULL, NULL, '2021-07-17'),
-(15, 'satpalbhardwaj665@gmail.com', '$2y$10$QyrljiRs4O1.M8IpxgtGr.uVCJQ601SQN9pAIg1ar/ELvbd0YrJQ.', 0, 'Satpal', 'Bhardwaj', NULL, NULL, NULL, 1, NULL, NULL, '2021-08-14');
+(13, 'banny12@gmail.com', '$2y$10$3SZsNk/36p/Vh008t9MIiekBMHyQx0x7pkLFRy5F4YDR2D9Rlc9Sa', 0, 'banny', 'dir', NULL, NULL, NULL, 1, NULL, NULL, '2021-07-17')
 
 --
 -- Indexes for dumped tables
