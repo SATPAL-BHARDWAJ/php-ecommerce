@@ -7,7 +7,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">https://www.sbsharma.com/ <i>CODING & BLOGGING HACKS</i> is a programming blog. We always try to serve best content related to web and mobile programming. We have 4+ years of experience with HTML 5, CSS, JavaScript, PHP, Laravel and Ionic Framework.</p>
+            <p class="text-justify">https://www.sbsharma.com/ <i>CODING & BLOGGING HACKS</i> is a programming blog. We always try to serve best content related to web and mobile programming. We are well versed with HTML 5, CSS, JavaScript, PHP, Laravel and Ionic Framework.</p>
           </div>
 
           <div class="col-xs-6 col-md-3">
