@@ -4,5 +4,5 @@
     require_once './helper/common.php';
     
 
-    define('BASE_PATH', '/projects/QSale');
+    define('BASE_PATH', '/projects/php-ecommerce');
 ?>

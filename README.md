@@ -9,7 +9,7 @@ Simple one page php ecommerce site.
 
 ## Demo 
 
-A demo store can be found at [http://qsale.sbsharma.com](http://qsale.sbsharma.com/).
+A demo store can be found at [http://demo.sbsharma.com/php-ecommerce](http://demo.sbsharma.com/php-ecommerce).
 
 ## Contributors
 

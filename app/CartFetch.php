@@ -1,5 +1,5 @@
 <?php
-	require_once 'Include.php';
+	require_once 'config/include.php';
     
 	$conn = $pdo->open();
 

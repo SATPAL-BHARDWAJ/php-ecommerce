@@ -1,5 +1,5 @@
 <?php
-    require_once 'Include.php';
+    require_once 'config/include.php';
 
 	if(isset($_SESSION['user'])){
 		$conn = $pdo->open();
