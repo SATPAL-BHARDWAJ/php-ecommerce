@@ -2,9 +2,7 @@
 Simple one page php ecommerce site.
 
 ## Final output
-<img src="product-listing.png" alt="Product listing" width="600"/>
-<img src="register-page.png" alt="Register page" width="600"/>
-<img src="cart-page.png" alt="Cart page" width="600"/>
+<img src="product-listing.png" alt="Product listing" width="600"/> <img src="register-page.png" alt="Register page" width="600"/> <img src="cart-page.png" alt="Cart page" width="600"/>
 
 ## Demo 
 A demo store can be found at [http://demo.sbsharma.com/php-ecommerce](http://demo.sbsharma.com/php-ecommerce).
