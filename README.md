@@ -13,7 +13,7 @@ A demo store can be found at [http://demo.sbsharma.com/php-ecommerce](http://dem
 [PHP Ecommerce cart](https://sbsharma.com/php-shopping-cart/)
 
 # Support us
-To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission. Here is my Hostinger affilate link [Hostinger](https://www.hostg.xyz/SH6KQ).
+<a href="https://www.hostg.xyz/SH6KQ"><img src="Support us.png" alt="To support my free tutorials and source code you can consider your next hosting purchase with my affiliate link. It will not cost you anything extra but it will give me a small amount of commission"/></a>
 
 
 # Contributor
